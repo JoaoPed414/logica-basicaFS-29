@@ -33,7 +33,7 @@ console.log(valor2)
 
 
 
-
+/*
 let contador;
 
 const valor3 = "OK"
@@ -45,12 +45,19 @@ console.log(valor3)
 
 alert("Faz o L")
 
+*/
 
 
+let nota1;
+let nota2;
+let nota3;
 
+nota1 = 7;
+nota2 = 6.3;
+nota3 = 8;
 
-
-
+let media = (nota1 + nota2 + nota3) / 3;
+console.log(media)
 
 
 
